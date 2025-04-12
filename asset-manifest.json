@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SDA-ONLINE-REACT/static/css/main.a8d47b37.css",
+    "main.js": "/SDA-ONLINE-REACT/static/js/main.cad0cc8a.js",
+    "static/js/453.52f94699.chunk.js": "/SDA-ONLINE-REACT/static/js/453.52f94699.chunk.js",
+    "static/media/background.jpg": "/SDA-ONLINE-REACT/static/media/background.7192315f39f45eccaae2.jpg",
+    "static/media/error_404.png": "/SDA-ONLINE-REACT/static/media/error_404.b8f2f422a7ec6f978772.png",
+    "static/media/footer.avif": "/SDA-ONLINE-REACT/static/media/footer.f55c04fd3aa7b6454afa.avif",
+    "static/media/shopping-cart.png": "/SDA-ONLINE-REACT/static/media/shopping-cart.e74f61edf5e0d2231aed.png",
+    "static/media/furnitures.png": "/SDA-ONLINE-REACT/static/media/furnitures.8fe84da0aebbb1e6337e.png",
+    "index.html": "/SDA-ONLINE-REACT/index.html",
+    "main.a8d47b37.css.map": "/SDA-ONLINE-REACT/static/css/main.a8d47b37.css.map",
+    "main.cad0cc8a.js.map": "/SDA-ONLINE-REACT/static/js/main.cad0cc8a.js.map",
+    "453.52f94699.chunk.js.map": "/SDA-ONLINE-REACT/static/js/453.52f94699.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d47b37.css",
+    "static/js/main.cad0cc8a.js"
+  ]
+}
