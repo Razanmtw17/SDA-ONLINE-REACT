@@ -1,0 +1,71 @@
+.container1 {
+    width: 100%;
+    height: 700px;
+    background-image: url('../../images/footer.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.footer1 {
+    position: absolute;
+    width: 80%;
+    background-color: white;
+    height: 80%; 
+    bottom: 0;
+    right: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    padding-left: 30px;
+}
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-items: center;
+}
+.storeLogo {
+
+}
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-items: center;
+}
+li {
+    list-style: none;
+    margin-left: 0px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    background:#dadada;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  input {
+    flex: 1; /* for the input bar */
+    background-color: #dadada;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .add-btn {
+    align-items: center;
+    text-align: center;
+    border: none;
+    outline: none;
+    padding: 10px 5px;
+    background: #000000;
+    color: rgb(255, 251, 251);
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 40px;
+  }
